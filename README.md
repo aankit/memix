@@ -3,13 +3,12 @@
 ##How to use
 On the command line:
 
-> $ git clone https://github.com/aankit/memix
-
-> $ cd memix
-
-> $ mkdir memorial
-
-> $ mv your/image/folder/allImages path/to/memix/memorial
+```
+$ git clone https://github.com/aankit/memix
+$ cd memix
+$ mkdir memorial
+$ mv your/image/folder/allImages path/to/memix/memorial
+```
 
 Make sure to check the requirements.txt file and install the modules.
 
