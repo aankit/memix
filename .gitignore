@@ -1,5 +1,10 @@
 .DS_Store
 *.pyc
-*/
+/RememberAndForget
+/forget
+/memorial_output
+/opencv
+/output
+/source
 *.sh
 retrieveImages.py
